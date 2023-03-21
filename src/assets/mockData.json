@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Svelte superstars",
+    "users": [
+      { "name": "Sebastian Svelte", "ranks": ["Admin"], "icon": "S" },
+      { "name": "Fishcord Admin", "ranks": ["Admin"], "icon": "🐟" },
+      { "name": "ApareciumVenison16", "ranks": ["user"], "icon": "A" },
+      { "name": "EpiskeyTruffle8", "ranks": ["user"], "icon": "E" },
+      { "name": "InimicumCardamom86", "ranks": ["user"], "icon": "I" },
+      { "name": "TergeoSardines26", "ranks": ["user"], "icon": "T" },
+      { "name": "EngorgioSalami7", "ranks": ["user"], "icon": "E" },
+      { "name": "MortisKebab89", "ranks": ["user"], "icon": "M" },
+      { "name": "WingardiumHerring16", "ranks": ["user"], "icon": "W" },
+      { "name": "FerulaShortcake36", "ranks": ["user"], "icon": "F" },
+      { "name": "AvisCeleriac3", "ranks": ["user"], "icon": "A" },
+      { "name": "GlisseoCaviar2", "ranks": ["user"], "icon": "G" },
+      { "name": "TotalusCelery78", "ranks": ["user"], "icon": "T" },
+      { "name": "StupefySambar51", "ranks": ["mod"], "icon": "S" },
+      { "name": "ImpedimentaLentils4", "ranks": ["user"], "icon": "I" },
+      { "name": "IncendioAvocados47", "ranks": ["user"], "icon": "I" },
+      { "name": "RecantoCollards71", "ranks": ["user"], "icon": "R" },
+      { "name": "TotalumDill98", "ranks": ["user"], "icon": "T" },
+      { "name": "LiberacorpusMarmite63", "ranks": ["user"], "icon": "L" },
+      { "name": "FiendfyrePlum96", "ranks": ["user"], "icon": "F" },
+      { "name": "TarantallegraJello16", "ranks": ["user"], "icon": "T" },
+      { "name": "ExpelliarmusKumquats24", "ranks": ["user"], "icon": "E" },
+      { "name": "FideliusPickled74", "ranks": ["user"], "icon": "F" },
+      { "name": "IncarcarousGarlic51", "ranks": ["user"], "icon": "I" },
+      { "name": "SectumsempraNachos46", "ranks": ["user"], "icon": "S" },
+      { "name": "IncantatemLamb34", "ranks": ["user"], "icon": "I" },
+      { "name": "DefodioCornbread69", "ranks": ["user"], "icon": "D" },
+      { "name": "EvanescoPretzels64", "ranks": ["mod"], "icon": "E" },
+      { "name": "ScourgifyChamomile7", "ranks": ["user"], "icon": "S" },
+      { "name": "ReparoSausage49", "ranks": ["user"], "icon": "R" },
+      { "name": "ExpulsoCordial97", "ranks": ["user"], "icon": "E" },
+      { "name": "OblivateOnions8", "ranks": ["user"], "icon": "O" },
+      { "name": "PiertotumPorridge1", "ranks": ["user"], "icon": "P" },
+      { "name": "ConfundoMint23", "ranks": ["user"], "icon": "C" },
+      { "name": "MuggletumAsparagus29", "ranks": ["user"], "icon": "M" },
+      { "name": "RevelioSnails58", "ranks": ["user"], "icon": "R" },
+      { "name": "IncantatoLemongrass99", "ranks": ["user"], "icon": "I" },
+      { "name": "DensaugeoSalsa2", "ranks": ["user"], "icon": "D" },
+      { "name": "LocomotorMilkshakes20", "ranks": ["mod"], "icon": "L" },
+      { "name": "RelashioPumpkins39", "ranks": ["user"], "icon": "R" },
+      { "name": "DeletriusHalibut29", "ranks": ["user"], "icon": "D" },
+      { "name": "RepeloBlackberries85", "ranks": ["user"], "icon": "R" },
+      { "name": "MeteolojinxRissoles16", "ranks": ["user"], "icon": "M" },
+      { "name": "LanglockCranberries52", "ranks": ["user"], "icon": "L" },
+      { "name": "MuffliatoPear90", "ranks": ["user"], "icon": "M" },
+      { "name": "SilencioMustard27", "ranks": ["mod"], "icon": "S" },
+      { "name": "RiddikulusCress16", "ranks": ["user"], "icon": "R" },
+      { "name": "PatronumGherkins96", "ranks": ["user"], "icon": "P" },
+      { "name": "FiniteChickpeas57", "ranks": ["user"], "icon": "F" },
+      { "name": "OppugnoToffee74", "ranks": ["user"], "icon": "O" },
+      { "name": "ColloportusChervil75", "ranks": ["user"], "icon": "C" },
+      { "name": "AlohomoraClams72", "ranks": ["user"], "icon": "A" }
+    ],
+    "channels": [
+      {
+        "messages": [
+          {
+            "user": {
+              "name": "Sebastian Svelte",
+              "ranks": ["Admin"],
+              "icon": "S"
+            },
+            "time": 1679441350915,
+            "text": "Check out the new update"
+          },
+          {
+            "user": {
+              "name": "Sebastian Svelte",
+              "ranks": ["Admin"],
+              "icon": "S"
+            },
+            "time": 1679441350915,
+            "text": "https://svelte.dev/blog/whats-new-in-svelte-march-2023"
+          },
+          {
+            "user": {
+              "name": "LocomotorMilkshakes20",
+              "ranks": ["mod"],
+              "icon": "L"
+            },
+            "time": 1679441350915,
+            "text": "Awesome!"
+          },
+          {
+            "user": {
+              "name": "FerulaShortcake36",
+              "ranks": ["user"],
+              "icon": "F"
+            },
+            "time": 1679441350915,
+            "text": "It doesn't work for me"
+          },
+          {
+            "user": {
+              "name": "Sebastian Svelte",
+              "ranks": ["Admin"],
+              "icon": "S"
+            },
+            "time": 1679441350915,
+            "text": "Works on my machine"
+          }
+        ],
+        "name": "general",
+        "description": "Channel for general discussion about Svelte"
+      },
+      {
+        "messages": [],
+        "name": "code-review",
+        "description": "Advice and code reviews"
+      },
+      {
+        "messages": [
+          {
+            "user": {
+              "name": "TotalusCelery78",
+              "ranks": ["user"],
+              "icon": "T"
+            },
+            "time": 1679441350915,
+            "text": "Transitioning from React, can someone tell me what's wrong with this code?"
+          },
+          {
+            "user": {
+              "name": "TotalusCelery78",
+              "ranks": ["user"],
+              "icon": "T"
+            },
+            "time": 1679441350915,
+            "text": "https://pastebin.com/NZVJpHB5"
+          },
+          {
+            "user": {
+              "name": "StupefySambar51",
+              "ranks": ["mod"],
+              "icon": "S"
+            },
+            "time": 1679441350915,
+            "text": "Who's gonna tell him"
+          }
+        ],
+        "name": "Q&A",
+        "description": "A Q&A channel for beginners"
+      }
+    ]
+  },
+  {
+    "name": "Vue vicars",
+    "users": [
+      { "name": "Viola Vue", "ranks": ["Admin"], "icon": "V" },
+      { "name": "Fishcord Admin", "ranks": ["Admin"], "icon": "🐟" },
+      { "name": "HotspringsPlay47", "ranks": ["user"], "icon": "H" },
+      { "name": "StationCleats39", "ranks": ["user"], "icon": "S" },
+      { "name": "CycloneInning17", "ranks": ["mod"], "icon": "C" },
+      { "name": "AngerSurfer56", "ranks": ["user"], "icon": "A" },
+      { "name": "BicyclistLongjump38", "ranks": ["user"], "icon": "B" },
+      { "name": "TridentJudo20", "ranks": ["user"], "icon": "T" },
+      { "name": "SnowmanBoxing47", "ranks": ["user"], "icon": "S" },
+      { "name": "SparklerDiving67", "ranks": ["user"], "icon": "S" },
+      { "name": "HamburgerBiathlon34", "ranks": ["user"], "icon": "H" },
+      { "name": "PeaceCurling33", "ranks": ["user"], "icon": "P" },
+      { "name": "RosetteBunt8", "ranks": ["user"], "icon": "R" },
+      { "name": "SpadesOlympics82", "ranks": ["user"], "icon": "S" },
+      { "name": "HuggingIceskates34", "ranks": ["user"], "icon": "H" },
+      { "name": "AirplaneHomerun77", "ranks": ["mod"], "icon": "A" },
+      { "name": "UnderageTeammate1", "ranks": ["user"], "icon": "U" },
+      { "name": "KaabaPool29", "ranks": ["user"], "icon": "K" },
+      { "name": "RelaxedWinner93", "ranks": ["user"], "icon": "R" },
+      { "name": "LipstickGym27", "ranks": ["user"], "icon": "L" },
+      { "name": "SmirkDiver100", "ranks": ["user"], "icon": "S" },
+      { "name": "ParkingGymnastics8", "ranks": ["user"], "icon": "P" },
+      { "name": "BeersRink57", "ranks": ["user"], "icon": "B" },
+      { "name": "MahjongTetherball35", "ranks": ["mod"], "icon": "M" },
+      { "name": "CustomsScoreboard30", "ranks": ["user"], "icon": "C" },
+      { "name": "TrackballSurfing18", "ranks": ["user"], "icon": "T" },
+      { "name": "TangerineRunner53", "ranks": ["user"], "icon": "T" },
+      { "name": "AbcdTaekwondo47", "ranks": ["user"], "icon": "A" },
+      { "name": "HomesGolfer91", "ranks": ["user"], "icon": "H" },
+      { "name": "DiamondsGymnast33", "ranks": ["user"], "icon": "D" },
+      { "name": "ScooterHalftime81", "ranks": ["user"], "icon": "S" },
+      { "name": "FistCycling92", "ranks": ["user"], "icon": "F" },
+      { "name": "SushiOllie84", "ranks": ["mod"], "icon": "S" },
+      { "name": "GhostNet7", "ranks": ["user"], "icon": "G" },
+      { "name": "KokoFitness13", "ranks": ["user"], "icon": "K" },
+      { "name": "SpeakerBasketball41", "ranks": ["user"], "icon": "S" },
+      { "name": "HeartsDive83", "ranks": ["user"], "icon": "H" },
+      { "name": "AbcQuarter85", "ranks": ["user"], "icon": "A" },
+      { "name": "UnamusedGolfing4", "ranks": ["mod"], "icon": "U" },
+      { "name": "SpyCanoe23", "ranks": ["user"], "icon": "S" },
+      { "name": "EggplantEpee13", "ranks": ["user"], "icon": "E" },
+      { "name": "CopHitter69", "ranks": ["user"], "icon": "C" },
+      { "name": "TadaSkier99", "ranks": ["mod"], "icon": "T" },
+      { "name": "CallingCompetitor35", "ranks": ["user"], "icon": "C" },
+      { "name": "SaxophoneAxel74", "ranks": ["user"], "icon": "S" },
+      { "name": "HaircutHoop11", "ranks": ["user"], "icon": "H" },
+      { "name": "JugglingKingfu100", "ranks": ["user"], "icon": "J" },
+      { "name": "SnowflakeCrew80", "ranks": ["user"], "icon": "S" },
+      { "name": "SweatWrestling41", "ranks": ["user"], "icon": "S" },
+      { "name": "CartwheelSledder58", "ranks": ["mod"], "icon": "C" },
+      { "name": "ProjectorSculling59", "ranks": ["user"], "icon": "P" },
+      { "name": "RoflGeocaching56", "ranks": ["user"], "icon": "R" }
+    ],
+    "channels": [
+      {
+        "messages": [
+          {
+            "user": { "name": "Viola Vue", "ranks": ["Admin"], "icon": "V" },
+            "time": 1679441350915,
+            "text": "The documentary is out now!"
+          },
+          {
+            "user": { "name": "Viola Vue", "ranks": ["Admin"], "icon": "V" },
+            "time": 1679441350915,
+            "text": "https://www.youtube.com/watch?v=OrxmtDw4pVI"
+          },
+          {
+            "user": { "name": "Viola Vue", "ranks": ["Admin"], "icon": "V" },
+            "time": 1679441350915,
+            "text": "Go and check it out "
+          },
+          {
+            "user": {
+              "name": "HotspringsPlay47",
+              "ranks": ["user"],
+              "icon": "H"
+            },
+            "time": 1679441350915,
+            "text": "Cool"
+          },
+          {
+            "user": {
+              "name": "UnamusedGolfing4",
+              "ranks": ["mod"],
+              "icon": "U"
+            },
+            "time": 1679441350915,
+            "text": "Good watch"
+          },
+          {
+            "user": { "name": "HeartsDive83", "ranks": ["user"], "icon": "H" },
+            "time": 1679441350915,
+            "text": "Good one"
+          }
+        ],
+        "name": "general",
+        "description": "Channel for general discussion about Vue"
+      },
+      {
+        "messages": [],
+        "name": "code-review",
+        "description": "Advice and code reviews"
+      },
+      {
+        "messages": [],
+        "name": "Q&A",
+        "description": "A Q&A channel for beginners"
+      }
+    ]
+  },
+  {
+    "name": "React rectifiers",
+    "users": [
+      { "name": "Robert React", "ranks": ["Admin"], "icon": "R" },
+      { "name": "Fishcord Admin", "ranks": ["Admin"], "icon": "🐟" },
+      { "name": "TreccioniSand60", "ranks": ["user"], "icon": "T" },
+      { "name": "CavatappiPlate52", "ranks": ["user"], "icon": "C" },
+      { "name": "AlphabetSpikes30", "ranks": ["mod"], "icon": "A" },
+      { "name": "CaramelleTear69", "ranks": ["mod"], "icon": "C" },
+      { "name": "FerrazzuoliStronghold51", "ranks": ["user"], "icon": "F" },
+      { "name": "PicchiarelliMelon33", "ranks": ["user"], "icon": "P" },
+      { "name": "VesuvioFoot60", "ranks": ["user"], "icon": "V" },
+      { "name": "StrozzapretiAnvil80", "ranks": ["user"], "icon": "S" },
+      { "name": "CoralliniAzure47", "ranks": ["user"], "icon": "C" },
+      { "name": "RotoloThe46", "ranks": ["user"], "icon": "R" },
+      { "name": "RigatonciniCartography21", "ranks": ["user"], "icon": "R" },
+      { "name": "SpiraliniLodestone95", "ranks": ["mod"], "icon": "S" },
+      { "name": "ScialatielliBasalt47", "ranks": ["user"], "icon": "S" },
+      { "name": "SacchettoniOutpost90", "ranks": ["user"], "icon": "S" },
+      { "name": "FazzolettiPigman15", "ranks": ["user"], "icon": "F" },
+      { "name": "CulurgionesUnbreaking42", "ranks": ["user"], "icon": "C" },
+      { "name": "MafaldineBlazerod6", "ranks": ["user"], "icon": "M" },
+      { "name": "CaccavelleDried40", "ranks": ["user"], "icon": "C" },
+      { "name": "MaccheroncelliBread13", "ranks": ["mod"], "icon": "M" },
+      { "name": "CoquillettesSeagrass21", "ranks": ["user"], "icon": "C" },
+      { "name": "CavatelliLever71", "ranks": ["user"], "icon": "C" },
+      { "name": "CapelliniVex48", "ranks": ["user"], "icon": "C" },
+      { "name": "PassatelliPiston43", "ranks": ["user"], "icon": "P" },
+      { "name": "GarganelliSponge31", "ranks": ["mod"], "icon": "G" },
+      { "name": "TrenneCarrots66", "ranks": ["user"], "icon": "T" },
+      { "name": "AciniConduit61", "ranks": ["mod"], "icon": "A" },
+      { "name": "ConchiglieMilk4", "ranks": ["user"], "icon": "C" },
+      { "name": "TortiglioniExperience46", "ranks": ["user"], "icon": "T" },
+      { "name": "FagioloniTouch94", "ranks": ["user"], "icon": "F" },
+      { "name": "PenneCobblestone5", "ranks": ["user"], "icon": "P" },
+      { "name": "TrofieMidlands98", "ranks": ["user"], "icon": "T" },
+      { "name": "Egg barleyForest20", "ranks": ["user"], "icon": "E" },
+      { "name": "PasseroRose26", "ranks": ["user"], "icon": "P" },
+      { "name": "BusiatiBeans55", "ranks": ["user"], "icon": "B" },
+      { "name": "PaccheriStonecutter96", "ranks": ["user"], "icon": "P" },
+      { "name": "TrottoleWater99", "ranks": ["user"], "icon": "T" },
+      { "name": "CampofiloneWool17", "ranks": ["user"], "icon": "C" },
+      { "name": "AgnolottiKelp36", "ranks": ["user"], "icon": "A" },
+      { "name": "RiccioliniHoe26", "ranks": ["user"], "icon": "R" },
+      { "name": "DitaliNetherrack82", "ranks": ["user"], "icon": "D" },
+      { "name": "ConchiglietteLure12", "ranks": ["user"], "icon": "C" },
+      { "name": "MaccheroniShulker49", "ranks": ["user"], "icon": "M" },
+      { "name": "FoglieEye87", "ranks": ["user"], "icon": "F" },
+      { "name": "TortelliMinecart24", "ranks": ["user"], "icon": "T" },
+      { "name": "LasagnetteRed13", "ranks": ["user"], "icon": "L" },
+      { "name": "CoralliBlock93", "ranks": ["user"], "icon": "C" },
+      { "name": "PerciatelliMap54", "ranks": ["user"], "icon": "P" },
+      { "name": "PillusPacked71", "ranks": ["user"], "icon": "P" },
+      { "name": "MezziCampfire72", "ranks": ["user"], "icon": "M" },
+      { "name": "CascatelliSword69", "ranks": ["user"], "icon": "C" }
+    ],
+    "channels": [
+      {
+        "messages": [
+          {
+            "user": { "name": "Robert React", "ranks": ["Admin"], "icon": "R" },
+            "time": 1679441350915,
+            "text": "This is a reminder that React is the only library in existence and it'll always be the best"
+          },
+          {
+            "user": { "name": "VesuvioFoot60", "ranks": ["user"], "icon": "V" },
+            "time": 1679441350915,
+            "text": "React sucks man"
+          },
+          {
+            "user": {
+              "name": "CaramelleTear69",
+              "ranks": ["mod"],
+              "icon": "C"
+            },
+            "time": 1679441350915,
+            "text": "This is a warning, you should be careful about what you post here"
+          }
+        ],
+        "name": "general",
+        "description": "Talk about our lord and saviour React here"
+      },
+      {
+        "messages": [],
+        "name": "code-review",
+        "description": "Advice and code reviews"
+      },
+      {
+        "messages": [
+          {
+            "user": {
+              "name": "CaramelleTear69",
+              "ranks": ["mod"],
+              "icon": "C"
+            },
+            "time": 1679441350915,
+            "text": "My useEffect is creating an infinite loop, any advice?"
+          },
+          {
+            "user": {
+              "name": "StrozzapretiAnvil80",
+              "ranks": ["user"],
+              "icon": "S"
+            },
+            "time": 1679441350915,
+            "text": "No idea"
+          },
+          {
+            "user": {
+              "name": "CapelliniVex48",
+              "ranks": ["user"],
+              "icon": "C"
+            },
+            "time": 1679441350915,
+            "text": "Dunno"
+          },
+          {
+            "user": { "name": "Robert React", "ranks": ["Admin"], "icon": "R" },
+            "time": 1679441350915,
+            "text": "Happens to me too, no clue what's causing it"
+          }
+        ],
+        "name": "Q&A",
+        "description": "A Q&A channel for beginners"
+      }
+    ]
+  },
+  {
+    "name": "Angular apologists",
+    "users": [
+      { "name": "Anthony Angular", "ranks": ["Admin"], "icon": "A" },
+      { "name": "Fishcord Admin", "ranks": ["Admin"], "icon": "🐟" },
+      { "name": "AngularFan0001", "ranks": ["user"], "icon": "A" }
+    ],
+    "channels": [
+      {
+        "messages": [
+          {
+            "user": {
+              "name": "Anthony Angular",
+              "ranks": ["Admin"],
+              "icon": "A"
+            },
+            "time": 1679441350915,
+            "text": "I love this library, it's so approachable and simple to use!"
+          },
+          {
+            "user": {
+              "name": "Anthony Angular",
+              "ranks": ["Admin"],
+              "icon": "A"
+            },
+            "time": 1679441350915,
+            "text": "Me too, it's my favorite by far"
+          },
+          {
+            "user": {
+              "name": "Anthony Angular",
+              "ranks": ["Admin"],
+              "icon": "A"
+            },
+            "time": 1679441350915,
+            "text": "Same here, I'd never use any other library "
+          },
+          {
+            "user": {
+              "name": "AngularFan0001",
+              "ranks": ["user"],
+              "icon": "A"
+            },
+            "time": 1679441350915,
+            "text": "Are you ok?"
+          }
+        ],
+        "name": "general",
+        "description": "A place for all Angular fans to gather and discuss"
+      },
+      {
+        "messages": [],
+        "name": "code-review",
+        "description": "Advice and code reviews"
+      },
+      {
+        "messages": [
+          {
+            "user": {
+              "name": "Fishcord Admin",
+              "ranks": ["Admin"],
+              "icon": "🐟"
+            },
+            "time": 1679441350915,
+            "text": "Who loves Angular?"
+          },
+          {
+            "user": {
+              "name": "Anthony Angular",
+              "ranks": ["Admin"],
+              "icon": "A"
+            },
+            "time": 1679441350915,
+            "text": "Me!"
+          },
+          {
+            "user": {
+              "name": "Fishcord Admin",
+              "ranks": ["Admin"],
+              "icon": "🐟"
+            },
+            "time": 1679441350915,
+            "text": "Noted"
+          }
+        ],
+        "name": "Q&A",
+        "description": "A Q&A channel for beginners"
+      }
+    ]
+  }
+]

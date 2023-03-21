@@ -1,0 +1,72 @@
+@tailwind base;
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: rgb(31 41 55);
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 14px;
+  background-color: rgb(17 24 39);
+}
+
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navbar-item {
+    @apply relative bg-slate-800 w-12 h-12 flex justify-center items-center my-2 text-gray-200
+                hover:bg-slate-600 rounded-3xl hover:rounded-xl transition-all duration-300 z-50
+                hover:cursor-pointer;
+  }
+  .tooltip {
+    @apply bg-black w-auto p-2 m-2 min-w-max rounded-md text-sm font-bold shadow-md absolute left-14
+                text-white transition-all duration-150 scale-0 origin-left select-none z-50;
+  }
+  .iconTooltip {
+    @apply bg-black w-auto p-2 m-2 min-w-max rounded-md text-sm shadow-md absolute
+    text-white scale-0 select-none z-50 transition-all duration-75 origin-center;
+  }
+  .channel {
+    @apply bg-inherit hover:bg-gray-700 text-gray-400 hover:text-gray-200
+               hover:cursor-pointer m-2 pl-2 py-1 rounded-md flex items-center;
+  }
+  .navbar-item.selected {
+    @apply rounded-xl bg-slate-600;
+  }
+  .channel.selected {
+    @apply bg-slate-600 text-gray-100;
+  }
+  .usertag.Admin {
+    @apply text-red-800;
+  }
+  .icon.Admin {
+    @apply bg-red-700;
+  }
+  .usertag.mod {
+    @apply text-green-800;
+  }
+  .icon.mod {
+    @apply bg-green-700;
+  }
+  .usertag.user {
+    @apply text-teal-500;
+  }
+  .icon.user {
+    @apply bg-teal-700;
+  }
+  a {
+    @apply text-blue-400  hover:underline;
+  }
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
