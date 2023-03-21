@@ -20,7 +20,11 @@ export default function NewMessage({}: Props) {
     let utcTime = rawTime.getTime()
     messagesCtx.addMessage(
       {
-        user: userCtx.currentUser.currentName,
+        user: {
+          name: userCtx.currentUser.currentName,
+          ranks: [userCtx.currentUser.currentRank],
+          icon: userCtx.currentUser.currentIcon,
+        },
         time: utcTime,
         text: inputRef.current.value,
       },
