@@ -1,4 +1,4 @@
-import Linkify from 'linkify-react';
+import Linkify from "linkify-react";
 
 type User = {
   name: string;
@@ -13,13 +13,18 @@ type Props = {
 };
 
 export default function Message({ text, user, time }: Props) {
-
-    let formattedTime = new Date(time)
-    let freedomTime = formattedTime.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
-    let finalTime = `${formattedTime.getDate()}/${formattedTime.getMonth()+1}/${formattedTime.getFullYear()} at ${freedomTime}`
+  let formattedTime = new Date(time);
+  let freedomTime = formattedTime.toLocaleString("en-US", {
+    hour: "numeric",
+    minute: "numeric",
+    hour12: true,
+  });
+  let finalTime = `${formattedTime.getDate()}/${
+    formattedTime.getMonth() + 1
+  }/${formattedTime.getFullYear()} at ${freedomTime}`;
 
   return (
-    <div className="w-full hover:bg-[#343d4d] flex pl-4 py-0.5  items-stretch">
+    <div className="w-full hover:bg-[#343d4d] flex pl-4 py-0.5  items-stretch ">
       <div className=" flex flex-col items-center pr-2">
         <div
           className={`w-10 h-10 font-bold text-lg text-white rounded-3xl icon ${user.ranks[0]} 
@@ -35,13 +40,11 @@ export default function Message({ text, user, time }: Props) {
           >
             {user.name}
           </p>
-          <p className="text-gray-400 text-xs">{finalTime}</p>
+          <p className="text-gray-400 text-xs whitespace-nowrap">{finalTime}</p>
         </div>
-        <div className="text-gray-200 pr-4 break-all">{
-          <Linkify >
-            {text}
-          </Linkify>
-        }</div>
+        <div className="text-gray-200 pr-4 break-all">
+          {<Linkify>{text}</Linkify>}
+        </div>
       </div>
     </div>
   );
