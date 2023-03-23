@@ -14,7 +14,7 @@ export default function IconBar({}: Props) {
   const [notifs, setNotifs] = useState(true);
 
   return (
-    <div className="flex gap-4 mr-4">
+    <div className="flex gap-4 mr-4 sm:hidden lg:flex shrink-0 z-10">
       <div className="hover:cursor-pointer group relative">
         <p className="group-hover:scale-100 iconTooltip top-6 -right-6">
           Threads
